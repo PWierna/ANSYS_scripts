@@ -1,6 +1,5 @@
-1) Identify the system names to update (e.g. "SYS 3", "SYS 31", "SYS 32")
-
-2) In WB, go to File > Scripting > Open Command Window > (Type the following lines):
+# 1) Identify the system names to update (e.g. "SYS 3", "SYS 31", "SYS 32")
+# 2) In WB, go to File > Scripting > Open Command Window > (Type the following lines):
 
 
 # List of system names to update
